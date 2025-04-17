@@ -23,7 +23,11 @@
     "nodemon": "^3.1.9"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "tailwindcss": "^3.4.17"
+=======
+    "tailwindcss": "^3.4.17",
+>>>>>>> 638fa50c5b57f8c4efcf6b9d6d272a267ec632a4
    
   }
 }
